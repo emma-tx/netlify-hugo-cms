@@ -1,3 +1,8 @@
 body {
     background-color: #222222;
 }
+
+.bg-white {
+    background-color: #222222 !important;
+    background-color: var(--white);
+}

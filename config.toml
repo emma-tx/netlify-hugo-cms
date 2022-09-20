@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "Emma-TRX @ Netlify"
 
 [params]
     custom_css = ["site/static/style.css"]

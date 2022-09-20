@@ -38,7 +38,7 @@
 
 	/* Links */
 	& a {
-		color: var(--primary);
+		color: #be0f34;
 		transition: var(--hover-transition);
 		&:hover {
 			background-color: var(--highlight);
@@ -81,7 +81,7 @@
       height: 100%;
       content: counter(i);
       counter-increment: i;
-      color: var(--primary);
+      color: #be0f34;
     }
 	}
 
@@ -91,7 +91,7 @@
     display: block;
     border-radius: var(--border-radius);
     padding: var(--spacing-medium);
-    color: var(--primary);
+    color: #be0f34;
     font-weight: 700;
     font-size: 1.25rem;;
     margin-bottom: var(--spacing-medium);
